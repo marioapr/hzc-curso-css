@@ -15,7 +15,7 @@ Esse é um projeto feito seguindo as aulas do curso [CSS: dispondo elementos com
 
 # Acesso ao projeto 
 
-[Deploy do projeto]()
+[Deploy do projeto](https://marioapr.github.io/hzc-curso-css/)
 
 
 # Tecnologias utilizadas
