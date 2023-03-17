@@ -15,7 +15,7 @@ Esse é um projeto feito seguindo as aulas do curso [CSS: dispondo elementos com
 
 # Acesso ao projeto 
 
-[Deploy do projeto](https://marioapr.github.io/hzc-curso-css/)
+[Deploy do projeto](https://mario-hzc-projeto.netlify.app/)
 
 
 # Tecnologias utilizadas
@@ -28,9 +28,9 @@ Esse é um projeto feito seguindo as aulas do curso [CSS: dispondo elementos com
 
  * Minhas redes 
 
- [LinkedIn](https://www.linkedin.com/in/marioanthony/)
- [Twitter](https://twitter.com/AnthonycomY)
- [Instagram](https://www.instagram.com/mario_apr/)
+ [LinkedIn](https://www.linkedin.com/in/marioanthony/)<br>
+ [Twitter](https://twitter.com/AnthonycomY)<br>
+ [Instagram](https://www.instagram.com/mario_apr/)<br>
 
  * Página do curso 
 
